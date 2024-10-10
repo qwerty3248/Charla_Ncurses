@@ -1,0 +1,12 @@
+Ncurses es una api para controlar terminales tanto en unix como en windows
+
+viene instalado en linux SUU
+
+#include <ncurses.h> en los cpp o en c 
+
+Para compilar se hace añadiendo -lcurses
+
+se puede compilar de la misma forma pero añadiendo la libreria 
+
+
+
